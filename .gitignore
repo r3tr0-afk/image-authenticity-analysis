@@ -1,5 +1,5 @@
 data/raw/
-data/interim/
+data/temp/
 data/processed/
 
 *.csv~
