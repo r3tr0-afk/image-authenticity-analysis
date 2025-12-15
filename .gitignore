@@ -1,7 +1,8 @@
 data/raw/
 data/temp/
 data/processed/
-data/*
+data/noise_features/
+data/stats_features/
 
 *.csv~
 
