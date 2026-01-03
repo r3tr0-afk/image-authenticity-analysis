@@ -4,6 +4,8 @@ data/processed/
 data/noise_features/
 data/stats_features/
 
+reports/best_model.pth
+
 *.csv~
 
 __pycache__/
