@@ -6,6 +6,10 @@ data/stats_features/
 
 reports/best_model.pth
 
+scripts/training_debug.py
+
+src/model_full_debug.py
+
 *.csv~
 
 __pycache__/
